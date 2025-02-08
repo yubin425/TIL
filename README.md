@@ -40,3 +40,4 @@
 25.02.06 패킷 트레이서 방화벽 실습  [상세 내역](https://github.com/yubin425/TIL/blob/40c60aa8aeb32e414c4e5f790a3307db2eb76508/Daily/2025-02/2025-02-06.md)
 
 25.02.07 HTTPS, TCP SYN Flooding, Slowloris DDOS[상세 내역](https://github.com/yubin425/TIL/blob/main/Daily/2025-02/2025-02-07.md)
+
